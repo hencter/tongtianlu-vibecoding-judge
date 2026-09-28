@@ -1,0 +1,28 @@
+=== 1. Enter 快速新增连按（上限 8）===
+Enter#0: rows=4 count=1
+Enter#1: rows=5 count=2
+Enter#2: rows=6 count=3
+Enter#3: rows=7 count=4
+Enter#4: rows=8 count=5
+Enter#5: rows=8 count=6
+Enter#6: rows=8 count=6
+Enter#7: rows=8 count=6
+Enter#8: rows=8 count=6
+
+=== 2. 连点造成 13 行后，开始 PK 会怎样 ===
+rows= 13 count= 0
+填满后 count= 13 rows= 13
+PK: "拍板\n← 改选项\n第 1 场 / 共 13 场\n0 / 13\n如果现在只能留一个？\n←\nY1\nVS\n→\nY2\n差不多\n↓\n\n选左边 ← · 选右边 → · 差不多 ↓\n\n不打分，不填表。一个个二选一，最后拍板。\n数据只存在这台设备的浏览器里 · 无任何 AI 参与"
+
+=== 3. 删除行 ===
+删除前 rows/count: 3 2
+删除后 rows/count: 2 1
+
+=== 4. Tab 键可达性 ===
+focus: BUTTON:×
+focus: INPUT:日料
+focus: BUTTON:×
+focus: INPUT:烧烤
+focus: BUTTON:×
+focus: BUTTON:＋ 加一个
+ERRORS: []

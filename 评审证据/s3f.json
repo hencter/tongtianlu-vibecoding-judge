@@ -1,0 +1,22 @@
+[
+  {"do":"goto","url":"https://koi-food-decider.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"clickText","text":"5 人以上","exact":true,"ms":400},
+  {"do":"clickText","text":"30 元以内","exact":true,"ms":400},
+  {"do":"clickText","text":"15 分钟内","exact":true,"ms":400},
+  {"do":"clickText","text":"放出锦鲤","exact":true,"ms":2500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_13_strict.png"},
+  {"do":"eval","expr":"document.body.innerText.slice(0,900)"},
+  {"do":"goto","url":"https://decide-three-questions.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"type","text":"散步","n":0},{"do":"clickText","text":"添加","exact":true,"ms":600},
+  {"do":"type","text":"跑步","n":0},{"do":"clickText","text":"添加","exact":true,"ms":600},
+  {"do":"clickText","text":"开始拍板","exact":true,"ms":1800},
+  {"do":"clickText","text":"跑步","exact":true,"ms":1400},
+  {"do":"clickText","text":"跑步","exact":true,"ms":1400},
+  {"do":"clickText","text":"跑步","exact":true,"ms":2200},
+  {"do":"clickText","text":"就这么定了","exact":true,"ms":2200},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/caizai_17_confirmed.png"},
+  {"do":"eval","expr":"document.body.innerText.slice(0,700)"},
+  {"do":"clickables"}
+]

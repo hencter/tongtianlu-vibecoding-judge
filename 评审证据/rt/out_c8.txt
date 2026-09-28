@@ -1,0 +1,10 @@
+history.length 首页: 2
+history.length 流程页: 2
+当前: "别纠结\nDECIDE.\n第 1 问 / 3\n考虑现实条件，哪个最合适？\n\n先别想完美，只看现在。\n\n甲\n✓\n乙\n✓\n\n选一个，自动进入下一问。"
+=== 按浏览器返回 ===
+nav err {"code":-32602,"message":"Invalid parameters","data":"Failed to deserialize params.entryId - BINDINGS: mandatory field missing at position 8"}
+entries: 2 index: 1
+返回后 url: about:blank
+返回后: ""
+=== Esc 键 ===
+Esc 后: ""

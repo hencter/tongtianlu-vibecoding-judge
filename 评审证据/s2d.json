@@ -1,0 +1,22 @@
+[
+  {"do":"goto","url":"https://paiban-decide-now.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"clickText","text":"试试示例","exact":true,"ms":1500},
+  {"do":"clickText","text":"开始 PK","exact":true,"ms":2200},
+  {"do":"clickAt","x":367,"y":348,"ms":1000},
+  {"do":"clickAt","x":895,"y":348,"ms":1000},
+  {"do":"clickAt","x":631,"y":512,"ms":1000},
+  {"do":"clickAt","x":367,"y":348,"ms":1000},
+  {"do":"clickAt","x":895,"y":348,"ms":1000},
+  {"do":"clickAt","x":367,"y":348,"ms":1000},
+  {"do":"clickAt","x":895,"y":348,"ms":1000},
+  {"do":"clickAt","x":367,"y":348,"ms":1000},
+  {"do":"clickAt","x":895,"y":348,"ms":1000},
+  {"do":"clickAt","x":367,"y":348,"ms":1000},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_08_after10.png"},
+  {"do":"text"},
+  {"do":"clickAt","x":895,"y":348,"ms":2500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_09_result.png"},
+  {"do":"text"},
+  {"do":"clickables"}
+]

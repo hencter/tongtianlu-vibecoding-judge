@@ -1,0 +1,18 @@
+[
+  {"do":"goto","url":"https://koi-food-decider.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"clickText","text":"很饿","exact":true,"ms":400},
+  {"do":"clickText","text":"想吃辣","exact":true,"ms":400},
+  {"do":"clickText","text":"交给锦鲤","exact":true,"ms":600},
+  {"do":"clickText","text":"放出锦鲤","exact":true,"ms":2500},
+  {"do":"clickText","text":"点击翻牌","exact":true,"ms":1600},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_03_flip1.png"},
+  {"do":"clickText","text":"点击翻牌","exact":true,"ms":1600},
+  {"do":"clickText","text":"点击翻牌","exact":true,"ms":1800},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_04_all_flipped.png"},
+  {"do":"eval","expr":"document.body.innerText.slice(0,1400)"},
+  {"do":"clickText","text":"查看奇遇","exact":true,"ms":1800},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_05_story.png"},
+  {"do":"eval","expr":"document.body.innerText.slice(0,1200)"},
+  {"do":"clickables"}
+]

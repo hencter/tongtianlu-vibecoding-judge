@@ -1,0 +1,31 @@
+=== 标题 === 拍板 · 不打分，只 PK
+=== 首页文本 ===
+拍板
+PAIBAN / DECIDE NOW
+历史
+现在就拍板。
+
+把纠结的选项丢进来，一个个 PK。
+
+这个决定叫什么
+候选
+0 / 8
+01
+×
+02
+×
+03
+×
+＋ 加一个
+Enter 快速新增 · 最多 8 个
+开始 PK →
+试试示例
+
+2–6 个候选：两两都打一遍。7–8 个：先快速赛一轮，前三再循环赛。
+
+不打分，不填表。一个个二选一，最后拍板。
+数据只存在这台设备的浏览器里 · 无任何 AI 参与
+=== 元素 ===
+[{"i":0,"tag":"BUTTON","t":"拍板|PAIBAN / DECIDE NOW","cls":"brand","dis":false},{"i":1,"tag":"BUTTON","t":"历史","cls":"ghost-btn","dis":true},{"i":2,"tag":"INPUT","t":"今晚吃什么","cls":"field-input title-input","dis":false},{"i":3,"tag":"INPUT","t":"火锅","cls":"field-input candidate-input","dis":false},{"i":4,"tag":"BUTTON","t":"×","cls":"row-remove","dis":false},{"i":5,"tag":"INPUT","t":"日料","cls":"field-input candidate-input","dis":false},{"i":6,"tag":"BUTTON","t":"×","cls":"row-remove","dis":false},{"i":7,"tag":"INPUT","t":"烧烤","cls":"field-input candidate-input","dis":false},{"i":8,"tag":"BUTTON","t":"×","cls":"row-remove","dis":false},{"i":9,"tag":"BUTTON","t":"＋ 加一个","cls":"chip-btn","dis":false},{"i":10,"tag":"BUTTON","t":"开始 PK →","cls":"cta is-off","dis":false},{"i":11,"tag":"BUTTON","t":"试试示例","cls":"cta-quiet","dis":false}]
+填名称后: 拍板 | PAIBAN / DECIDE NOW | 历史 | 现在就拍板。 | 把纠结的选项丢进来，一个个 PK。 | 这个决定叫什么 | 候选 | 0 / 8
+元素: [{"i":0,"tag":"BUTTON","t":"拍板|PAIBAN / DECIDE NOW","cls":"brand","dis":false},{"i":1,"tag":"BUTTON","t":"历史","cls":"ghost-btn","dis":true},{"i":2,"tag":"INPUT","t":"今晚吃什么","cls":"field-input title-input","dis":false},{"i":3,"tag":"INPUT","t":"火锅","cls":"field-input candidate-input","dis":false},{"i":4,"tag":"BUTTON","t":"×","cls":"row-remove","dis":false},{"i":5,"tag":"INPUT","t":"日料","cls":"field-input candidate-input","dis":false},{"i":6,"tag":"BUTTON","t":"×","cls":"row-remove","dis":false},{"i":7,"tag":"INPUT","t":"烧烤","cls":"field-input candidate-input","dis":false},{"i":8,"tag":"BUTTON","t":"×","cls":"row-remove","dis":false},{"i":9,"tag":"BUTTON","t":"＋ 加一个","cls":"chip-btn","dis":false},{"i":10,"tag":"BUTTON","t":"开始 PK →","cls":"cta is-off","dis":false},{"i":11,"tag":"BUTTON","t":"试试示例","cls":"cta-quiet","dis":false}]

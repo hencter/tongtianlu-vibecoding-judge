@@ -1,0 +1,22 @@
+[
+  {"do":"goto","url":"https://koi-food-decider.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"mobile","w":390,"h":844},
+  {"do":"clickText","text":"很饿","exact":true,"ms":400},
+  {"do":"clickText","text":"想吃辣","exact":true,"ms":400},
+  {"do":"clickText","text":"放出锦鲤","exact":true,"ms":2500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_14_mobile_cards.png"},
+  {"do":"clickAt","x":195,"y":400,"ms":1500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_15_mobile_flip.png"},
+  {"do":"eval","expr":"document.body.innerText.split('\\n').filter(l=>l.match(/已翻开|滑动/)).join(' | ')"},
+  {"do":"clickText","text":"就吃这个","exact":true,"ms":2200},
+  {"do":"eval","expr":"(() => { const a=[...document.querySelectorAll('a')].map(e=>e.href+' :: '+(e.innerText||'').slice(0,20)); return JSON.stringify(a); })()"},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_16_mobile_result.png"},
+  {"do":"clickText","text":"复制菜名","exact":true,"ms":1200},
+  {"do":"eval","expr":"document.body.innerText.split('\\n').filter(l=>l.match(/已复制|复制/)).join(' | ')"},
+  {"do":"clickText","text":"完成这次决定","exact":true,"ms":2000},
+  {"do":"eval","expr":"document.body.innerText.slice(0,500)"},
+  {"do":"clickText","text":"历史","exact":true,"ms":1800},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_17_history.png"},
+  {"do":"eval","expr":"document.body.innerText.slice(0,600)"}
+]

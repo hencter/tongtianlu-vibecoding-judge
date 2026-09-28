@@ -1,0 +1,20 @@
+{
+  "name": "锦鲤的一百种吃法",
+  "short_name": "锦鲤吃法",
+  "description": "带抽卡与原创异世界故事的「今天吃什么」临时决策器。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071917",
+  "theme_color": "#071917",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%23071917'/%3E%3Cpath d='M112 320c64-128 192-176 272-128-32 80-112 160-192 176-48 8-72-16-80-48z' fill='%23C9463D'/%3E%3Cpath d='M384 192c32-24 64-16 72 8-24 32-56 40-80 24z' fill='%23E4BE67'/%3E%3Ccircle cx='192' cy='272' r='17' fill='%23F3E8CF'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

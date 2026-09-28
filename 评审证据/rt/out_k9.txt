@@ -1,0 +1,19 @@
+########## 忌口「不吃辣」硬限制 —— 连续 3 轮验证 ##########
+首页忌口: 已设 1 项 ✓
+轮 1 辣标记: 辣,辣,辣
+轮 1 卡名: ["现实对应：馄饨 / 云吞 / 汤面\n\n适配度\n100\n食运值\n47\n人均 ¥18—55\n15—35 分钟\n1—3 人\n·\n一个人吃也不尴尬\n·\n完全不辣\n查看奇遇\n就吃这个\n点击翻牌\n末日生存\n玻璃童话\n废物利用\n卡面绘制中\nN\n白鳞\n本轮最合适\n玻璃城罐头焗饭\n\n现实对应：焗饭 / 炒饭 / 剩饭改造\n\n适配度\n100\n食运值\n99\n人均 ¥8—35\n15—40 分钟\n1—3 人\n·\n一个人吃也不尴尬\n·\n完全不辣\n查看奇遇\n就吃这个\n点击翻牌\n龙族史诗\n田园治愈\n冒险公会\n卡面绘制中\nR\n赤鳞\n龙息蜂蜜烤鸡\n\n现实对应：烤鸡 / 炸鸡\n\n适配度\n73\n食运值\n61\n人均 ¥55—150\n35—85 分钟\n2—5 人\n·\n更适合分着吃，一个人会有点多\n·\n完全不辣\n查看奇遇\n就吃这个\n\n"]
+轮 2 辣标记: 辣,辣,辣
+轮 2 卡名: ["现实对应：馄饨 / 云吞 / 汤面\n\n适配度\n100\n食运值\n79\n人均 ¥18—55\n15—35 分钟\n1—3 人\n·\n一个人吃也不尴尬\n·\n完全不辣\n查看奇遇\n就吃这个\n点击翻牌\n龙族史诗\n田园治愈\n冒险公会\n卡面绘制中\nR\n赤鳞\n龙息蜂蜜烤鸡\n\n现实对应：烤鸡 / 炸鸡\n\n适配度\n73\n食运值\n38\n人均 ¥55—150\n35—85 分钟\n2—5 人\n·\n更适合分着吃，一个人会有点多\n·\n完全不辣\n查看奇遇\n就吃这个\n点击翻牌\n末日生存\n玻璃童话\n废物利用\n卡面绘制中\nN\n白鳞\n本轮最合适\n玻璃城罐头焗饭\n\n现实对应：焗饭 / 炒饭 / 剩饭改造\n\n适配度\n100\n食运值\n20\n人均 ¥8—35\n15—40 分钟\n1—3 人\n·\n一个人吃也不尴尬\n·\n完全不辣\n查看奇遇\n就吃这个\n\n"]
+轮 3 辣标记: 辣,辣辣,辣
+轮 3 卡名: ["现实对应：焗饭 / 炒饭 / 剩饭改造\n\n适配度\n100\n食运值\n92\n人均 ¥8—35\n15—40 分钟\n1—3 人\n·\n一个人吃也不尴尬\n·\n完全不辣\n查看奇遇\n就吃这个\n点击翻牌\n废土生存\n武侠镖局\n沙漠公路\n卡面绘制中\nR\n赤鳞\n黄沙镖局烤肉\n\n现实对应：烧烤 / 烤肉\n\n适配度\n33\n食运值\n71\n人均 ¥45—130\n35—90 分钟\n2—6 人\n辣辣\n·\n更适合分着吃，一个人会有点多\n查看奇遇\n就吃这个\n点击翻牌\n星际歌剧\n东方妖怪\n月球宫殿\n卡面绘制中\nSSR\n幻鳞\n本轮最合适\n本轮最稀有\n月狐零重力寿司\n\n现实对应：寿司 / 日料\n\n适配度\n100\n食运值\n66\n人均 ¥80—220\n40—100 分钟\n1—4 人\n·\n一个人吃也不尴尬\n·\n完全不辣\n查看奇遇\n就吃这个\n\n"]
+
+########## 严格预算 30 元以内 —— 连续 3 轮 ##########
+轮 1 人均: 人均 ¥8—35 | 人均 ¥25—75 | 人均 ¥20—60
+轮 2 人均: 人均 ¥25—75 | 人均 ¥8—35 | 人均 ¥18—55
+轮 3 人均: 人均 ¥18—55 | 人均 ¥8—35 | 人均 ¥25—75
+
+########## 严格时间 15 分钟内 —— 连续 3 轮 ##########
+轮 1 时间: 15—35 分钟 | 15—40 分钟 | 15—35 分钟
+轮 2 时间: 15—35 分钟 | 15—35 分钟 | 15—40 分钟
+轮 3 时间: 15—35 分钟 | 15—40 分钟 | 15—35 分钟
+ERRORS: ["log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()"]

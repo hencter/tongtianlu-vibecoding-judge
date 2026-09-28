@@ -1,0 +1,39 @@
+=== 逐个慢速添加，看是否在 8 处停止 ===
+第 1 次: fill=C1 clicked:加一个 rows=4
+第 2 次: fill=C2 clicked:加一个 rows=5
+第 3 次: fill=C3 clicked:加一个 rows=6
+第 4 次: fill=C4 clicked:加一个 rows=7
+第 5 次: fill=C5 clicked:加一个 rows=8
+第 6 次: fill=C6 clicked:加一个 rows=8
+第 7 次: fill=C7 clicked:加一个 rows=8
+第 8 次: fill=C8 clicked:加一个 rows=8
+第 9 次: fill=[object Object] clicked:加一个 rows=8
+第 10 次: fill=[object Object] clicked:加一个 rows=8
+第 11 次: fill=[object Object] clicked:加一个 rows=8
+第 12 次: fill=[object Object] clicked:加一个 rows=8
+最终 rows = 8  count = 8
+文本: "拍板\n历史\n现在就拍板。\n\n把纠结的选项丢进来，一个个 PK。\n\n这个决定叫什么\n候选\n8 / 8\n01\n×\n02\n×\n03\n×\n04\n×\n05\n×\n06\n×\n07\n×\n08\n×\n＋ 加一个\nEnter 快速新增 · 最多 8 个\n开始 PK →\n试试示例\n\n2–6 个候选：两两都打一遍。7–8 个：先快速赛一轮，前三再循环赛。\n\n不打分，不填表。一个个二选一，最后拍板。\n数据只存在这台设备的浏览器里 · 无任何 AI 参与"
+
+=== 用 3 个候选走 PK 流程 ===
+PK 第1场: "拍板\n← 改选项\n第 1 场 / 共 3 场\n0 / 3\n如果现在只能留一个？\n←\n火锅\nVS\n→\n日料\n差不多\n↓\n\n选左边 ← · 选右边 → · 差不多 ↓\n\n不打分，不填表。一个个二选一，最后拍板。\n数据只存在这台设备的浏览器里 · 无任何 AI 参与"
+btns: ["拍板","← 改选项","←|火锅","→|日料","差不多|↓"]
+=== PK 结束 ===
+拍板
+← 改选项
+第 1 场 / 共 3 场
+0 / 3
+如果现在只能留一个？
+←
+火锅
+VS
+→
+日料
+差不多
+↓
+
+选左边 ← · 选右边 → · 差不多 ↓
+
+不打分，不填表。一个个二选一，最后拍板。
+数据只存在这台设备的浏览器里 · 无任何 AI 参与
+btns: ["拍板","← 改选项","←|火锅","→|日料","差不多|↓"]
+ERRORS: []

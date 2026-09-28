@@ -1,0 +1,7 @@
+[
+  {"do":"goto","url":"https://koi-food-decider.app.workbuddy.host/"},
+  {"do":"wait","ms":3000},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_01_landing.png"},
+  {"do":"text"},
+  {"do":"clickables"}
+]

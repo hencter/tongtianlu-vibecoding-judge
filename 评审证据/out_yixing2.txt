@@ -1,0 +1,63 @@
+########## 用例1：3 候选（火锅/日料/烧烤）完整 PK ##########
+填入后: 这个决定叫什么 | 候选 | 3 / 8 | 01 | × | 02 | × | 03 | × | 04 | × | ＋ 加一个 | Enter 快速新增 · 最多 8 个 | 开始 PK → | 试试示例
+按钮: [{"i":0,"t":"拍板|PAIBAN / DECIDE NOW","cls":"brand","dis":false},{"i":1,"t":"历史","cls":"ghost-btn","dis":true},{"i":2,"t":"今晚吃什么","cls":"field-input title-input","dis":false},{"i":3,"t":"火锅","cls":"field-input candidate-input","dis":false},{"i":4,"t":"×","cls":"row-remove","dis":false},{"i":5,"t":"日料","cls":"field-input candidate-input","dis":false},{"i":6,"t":"×","cls":"row-remove","dis":false},{"i":7,"t":"烧烤","cls":"field-input candidate-input","dis":false},{"i":8,"t":"×","cls":"row-remove","dis":false},{"i":9,"t":"麻辣烫","cls":"field-input candidate-input","dis":false},{"i":10,"t":"×","cls":"row-remove","dis":false},{"i":11,"t":"＋ 加一个","cls":"chip-btn","dis":false},{"i":12,"t":"开始 PK →","cls":"cta ","dis":false},{"i":13,"t":"试试示例","cls":"cta-quiet","dis":false}]
+点击开始PK: OK:开始 PK →
+=== PK 第1场 ===
+拍板
+PAIBAN / DECIDE NOW
+← 改选项
+第 1 场 / 共 3 场
+0 / 3
+如果现在只能留一个？
+←
+火锅
+VS
+→
+日料
+差不多
+↓
+
+选左边 ← · 选右边 → · 差不多 ↓
+
+不打分，不填表。一个个二选一，最后拍板。
+数据只存在这台设备的浏览器里 · 无任何 AI 参与
+按钮: [{"i":0,"t":"拍板|PAIBAN / DECIDE NOW","cls":"brand","dis":false},{"i":1,"t":"← 改选项","cls":"ghost-btn","dis":false},{"i":2,"t":"←|火锅","cls":"fighter side-a  ","dis":false},{"i":3,"t":"→|日料","cls":"fighter side-b  ","dis":false},{"i":4,"t":"差不多|↓","cls":"tie-btn ","dis":false}]
+无候选按钮，step=0
+当前页:
+拍板
+PAIBAN / DECIDE NOW
+← 改选项
+第 1 场 / 共 3 场
+0 / 3
+如果现在只能留一个？
+←
+火锅
+VS
+→
+日料
+差不多
+↓
+
+选左边 ← · 选右边 → · 差不多 ↓
+
+不打分，不填表。一个个二选一，最后拍板。
+数据只存在这台设备的浏览器里 · 无任何 AI 参与
+=== 最终页 ===
+拍板
+PAIBAN / DECIDE NOW
+← 改选项
+第 1 场 / 共 3 场
+0 / 3
+如果现在只能留一个？
+←
+火锅
+VS
+→
+日料
+差不多
+↓
+
+选左边 ← · 选右边 → · 差不多 ↓
+
+不打分，不填表。一个个二选一，最后拍板。
+数据只存在这台设备的浏览器里 · 无任何 AI 参与

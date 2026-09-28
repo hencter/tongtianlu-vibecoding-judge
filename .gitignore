@@ -1,0 +1,27 @@
+# 第三方线上作品的线上副本（仅 E/CDP 测试期间下载，不属于本项目产出，不入库）
+评审证据/evid/*.js
+评审证据/evid/*.html
+评审证据/rt/*.js
+评审证据/rt/*.html
+
+# Chrome 调试用临时 profile（可能含本地缓存/凭据）
+评审证据/rt/cprof1/
+评审证据/rt/cprof2/
+
+# 调试日志与临时输出
+*.log
+*.err
+
+# 会话数据
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+
+# Excel 临时锁文件
+~$*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db

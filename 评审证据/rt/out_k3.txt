@@ -1,0 +1,9 @@
+=== 抽卡 ===
+404/失败请求: []
+imgs: "[]"
+卡面绘制中 元素数: 3
+
+=== 当前感觉 点 5 个（最多 3 个）===
+选中态: "[\"1 人\",\"随便\",\"不赶时间\",\"很饿\",\"想吃辣\",\"想喝热汤\",\"半信半疑|现实 60% · 随机 40%\"]"
+全部按钮 class 采样: "[\"5 人以上 => chip \",\"30 元以内 => chip \",\"30—60 元 => chip \",\"60—120 元 => chip \",\"120 元以上 => chip \",\"随便 => chip chip-on\",\"15 分钟内 => chip \",\"30 分钟内 => chip \",\"60 分钟内 => chip \",\"不赶时间 => chip chip-on\",\"很饿 => chip chip-on\",\"想吃辣 => chip chip-on\"]"
+ERRORS: ["log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()","log: Failed to load resource: the server responded with a status of 404 ()"]

@@ -1,0 +1,17 @@
+[
+  {"do":"goto","url":"https://koi-food-decider.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"clickText","text":"很饿","exact":true,"ms":400},
+  {"do":"clickText","text":"想吃辣","exact":true,"ms":400},
+  {"do":"clickText","text":"交给锦鲤","exact":true,"ms":600},
+  {"do":"clickText","text":"放出锦鲤","exact":true,"ms":2500},
+  {"do":"clickAt","x":264,"y":375,"ms":1500},
+  {"do":"clickAt","x":624,"y":375,"ms":1500},
+  {"do":"clickAt","x":984,"y":375,"ms":1800},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_06_flipped3.png"},
+  {"do":"eval","expr":"document.body.innerText.split('\\n').filter(l=>l.match(/已翻开|反悔/)).join(' | ')"},
+  {"do":"clickText","text":"就吃这个","exact":true,"ms":2500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/koi_07_result.png"},
+  {"do":"text"},
+  {"do":"clickables"}
+]

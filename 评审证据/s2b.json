@@ -1,0 +1,14 @@
+[
+  {"do":"goto","url":"https://paiban-decide-now.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"clickText","text":"开始 PK","exact":true,"ms":1500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_03_empty_submit.png"},
+  {"do":"eval","expr":"(() => { const t=document.body.innerText; return 'EMPTY_SUBMIT>>>\\n'+t.slice(0,600); })()"},
+  {"do":"clickText","text":"试试示例","exact":true,"ms":1800},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_04_example.png"},
+  {"do":"eval","expr":"(() => { const ins=[...document.querySelectorAll('input')].map(e=>e.value); return JSON.stringify(ins); })()"},
+  {"do":"clickText","text":"开始 PK","exact":true,"ms":2500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_05_pk_first.png"},
+  {"do":"text"},
+  {"do":"clickables"}
+]

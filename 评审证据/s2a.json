@@ -1,0 +1,10 @@
+[
+  {"do":"goto","url":"https://paiban-decide-now.app.workbuddy.host/"},
+  {"do":"wait","ms":3000},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_01_landing.png"},
+  {"do":"text"},
+  {"do":"clickables"},
+  {"do":"clickText","text":"拍板","exact":true,"ms":1500},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_02_empty_submit.png"},
+  {"do":"text"}
+]

@@ -1,0 +1,21 @@
+[
+  {"do":"goto","url":"https://paiban-decide-now.app.workbuddy.host/"},
+  {"do":"wait","ms":2500},
+  {"do":"clickText","text":"试试示例","exact":true,"ms":1500},
+  {"do":"clickText","text":"开始 PK","exact":true,"ms":2200},
+  {"do":"clickBtn","text":"火锅","ms":1200},
+  {"do":"clickBtn","text":"日料","ms":1200},
+  {"do":"clickBtn","text":"差不多","ms":1200},
+  {"do":"clickBtn","text":"火锅","ms":1200},
+  {"do":"clickBtn","text":"烧烤","ms":1200},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_06_mid.png"},
+  {"do":"eval","expr":"document.body.innerText.split('\\n').slice(0,8).join(' | ')"},
+  {"do":"clickBtn","text":"火锅","ms":1200},
+  {"do":"clickBtn","text":"火锅","ms":1200},
+  {"do":"clickBtn","text":"日料","ms":1200},
+  {"do":"clickBtn","text":"火锅","ms":1200},
+  {"do":"clickBtn","text":"火锅","ms":1200},
+  {"do":"shot","path":"d:/WorkBuddy/通天路闪电赛评委委员会/shots/yixing_07_result.png"},
+  {"do":"text"},
+  {"do":"clickables"}
+]
